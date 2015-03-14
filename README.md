@@ -1,5 +1,5 @@
 # dakkeh-api
-A REST api for dakkeh.zemo.ir
+A REST api for http://dakkeh.zemo.ir
 
 Dakkeh is an online service to buy MTN Irancell & Iran MCI credit charges. This project will provide as a REST API to be able to buy charge from this service. 
 
